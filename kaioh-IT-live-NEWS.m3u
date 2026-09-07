@@ -1,0 +1,1239 @@
+#EXTM3U x-tvg-url="KaiohTV"
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/5848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/Jackk/UUoTkDeVL2/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/Alf2sangiu/WvC8WOf2p6/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/38774.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/38775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/sFextKeP10/RNPAMFVNHB/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/38774.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/38775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/A0174B/jH4H6SkMNb/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/ZioRe/a31vRPK7z5/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/XYj0nVFGxe/UYuWRdcanB/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/SalvatorePonteDiNona1/NFZYu2rdDJ/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/YoJ2ZAns0c/RfwauhcnwG/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/38774.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/pepan/gF2CmAKxkg/38775.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/angelinu2020/g7RYUTZ7sK/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/cesare49/q8v9kEimYH/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://cbc.giize.com:6923/live/XYj0nVFGxe/UYuWRdcanB/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/38774.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/25uLBger76/YeRyZiiJBq/38775.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/23Beppecaci/TQTv7deF8h/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://cbc.giize.com:6923/live/vqghyrmo/59p70gNpfK/50148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/5848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/44Beppecaci/4hEsXseUFf/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/31.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/6650.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/5848.ts
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/245.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/38774.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/38775.ts
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/38958.ts
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/boris/Q6J4pujNd3/38772.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/31.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/6650.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/32.ts
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/5848.ts
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/245.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/38774.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/38775.ts
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/38958.ts
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/PeppeAGaetanoPill624/i4YjZjbrVG/38772.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/38774.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/massimobaldussi/2Y2hkHTE6S/38775.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/zioraff/fxgPiH5Pbd/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/tordellino/NyQe3DSs84/38772.m3u8
+#EXTINF:-1 tvg-id="skynewsarabialive.ae" tvg-name="Sky News Arabiya FHD" tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/Arabic_News/SkyNewsArabiya.png" group-title="NEWS",Sky News Arabiya FHD
+http://185.191.127.129/me13Oq9R/pokUmfTa/1508709
+#EXTINF:-1 tvg-id="skynewsarabialive.ae" tvg-name="Sky News Arabiya HD" tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/ArabicNews/SkyNewsArabiya.png" group-title="NEWS",Sky News Arabiya HD
+http://185.191.127.129/me13Oq9R/pokUmfTa/2020250
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="NEWS",Sky News
+http://185.191.127.129/me13Oq9R/pokUmfTa/2105934
+#EXTINF:-1 tvg-id="" tvg-name="News Sky News" tvg-logo="http://45.155.226.158/aricon/SkyNews.png" group-title="NEWS",News Sky News
+http://vlcdc.org:80/lYG1EKR6m8/uXcRu8sQ2S/841
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/800008090/05092018/718
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/Moulasamir_litfi/02082021/718
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/boukais2023/17082023/718
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/60107753/11012019/718
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/cherki_smain/31102022/718
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/Hireche_mohamed/30072016/718
+#EXTINF:-1 tvg-id="" tvg-name="AR: Sky News Arabia HD" tvg-logo="http://pic.tvtrips.xyz/PICONS-SHOTT/PICONS-BOUQUET-ARABIC/SKNEWS.png" group-title="NEWS",AR: Sky News Arabia HD
+http://a1.24tv.tn:2052/live/2488440896790695/3317006737587338/63513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: SKY NEWS ARABIA" tvg-logo="" group-title="NEWS",NEWS: SKY NEWS ARABIA
+http://juancs.streaminc.biz:8691/live/Manuelagustinmalvinas/c2STghbF/2997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: SKY NEWS ARABIYA" tvg-logo="" group-title="NEWS",NEWS: SKY NEWS ARABIYA
+http://juancs.streaminc.biz:8691/live/Manuelagustinmalvinas/c2STghbF/2998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_news.png" group-title="NEWS",DE: SKY SPORT NEWS HEVC
+http://28.191462.xyz:8080/live/hayribarak/hdeaYXKyTb/434623.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_news.png" group-title="NEWS",DE: SKY SPORT NEWS FHD
+http://28.191462.xyz:8080/live/hayribarak/hdeaYXKyTb/434633.ts
+#EXTINF:-1 tvg-id="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="http://sltv-icon.cms-s.com/logo/germanynew/sky_sport_news.png" group-title="NEWS",DE: SKY SPORT NEWS HD
+http://28.191462.xyz:8080/live/hayribarak/hdeaYXKyTb/434634.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/260px-Sky_TG24_-_Logo_2018.svg.png" group-title="NEWS",Sky Tg 24 HD
+http://vcs2.vhhserver.net:80/Gnr35shwnK/B3ecMdS14V/173
+#EXTINF:-1 tvg-name="Sky TG 24 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/260px-Sky_TG24_-_Logo_2018.svg.png" group-title="NEWS",Sky TG 24 SD
+http://vcs2.vhhserver.net:80/Gnr35shwnK/B3ecMdS14V/174
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/120px-Rai_News_24_-_Logo_2013.svg.png" group-title="NEWS",Rai News 24 SD
+http://vcs2.vhhserver.net:80/Gnr35shwnK/B3ecMdS14V/176
+#EXTINF:-1 tvg-name="Euroews Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/260px-Euronews_2016_logo.svg.png" group-title="NEWS",Euroews Italia
+http://vcs2.vhhserver.net:80/Gnr35shwnK/B3ecMdS14V/178
+#EXTINF:-1 tvg-name="Rai News 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/120px-Rai_News_24_-_Logo_2013.svg.png" group-title="NEWS",Rai News 24 HD
+http://vcs2.vhhserver.net:80/Gnr35shwnK/B3ecMdS14V/742
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES HD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES HD
+http://pro.platin4k.com:8880/Rafetkollege1/uGuVbR76mE7wuY/3825
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES FHD
+http://pro.platin4k.com:8880/Rafetkollege1/uGuVbR76mE7wuY/3841
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE HD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE HD
+http://pro.platin4k.com:8880/Rafetkollege1/uGuVbR76mE7wuY/3826
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE FHD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE FHD
+http://pro.platin4k.com:8880/Rafetkollege1/uGuVbR76mE7wuY/3843
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES HD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES HD
+http://pro.platin4k.com:8880/Mario2019/hFCmVF0EFE3r6n/3825
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES FHD
+http://pro.platin4k.com:8880/Mario2019/hFCmVF0EFE3r6n/3841
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE HD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE HD
+http://pro.platin4k.com:8880/Mario2019/hFCmVF0EFE3r6n/3826
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE FHD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE FHD
+http://pro.platin4k.com:8880/Mario2019/hFCmVF0EFE3r6n/3843
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES HD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES HD
+http://pro.platin4k.com:8880/Karakasf/i6gymD8By2NSdw/3825
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES FHD
+http://pro.platin4k.com:8880/Karakasf/i6gymD8By2NSdw/3841
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE HD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE HD
+http://pro.platin4k.com:8880/Karakasf/i6gymD8By2NSdw/3826
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE FHD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE FHD
+http://pro.platin4k.com:8880/Karakasf/i6gymD8By2NSdw/3843
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES HD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES HD
+http://pro.platin4k.com:8880/UweDreier/LmqATCChkb9Q/3825
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="DE: SKY DOCUMENTARIES FHD" tvg-logo="http://logo.platin8k.com/logo/DE/Sky_Documentaries.de.png" group-title="NEWS",DE: SKY DOCUMENTARIES FHD
+http://pro.platin4k.com:8880/UweDreier/LmqATCChkb9Q/3841
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE HD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE HD
+http://pro.platin4k.com:8880/UweDreier/LmqATCChkb9Q/3826
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="DE: SKY NATURE FHD" tvg-logo="http://logo.platin8k.com/logo/DE/sky_nature.de.png" group-title="NEWS",DE: SKY NATURE FHD
+http://pro.platin4k.com:8880/UweDreier/LmqATCChkb9Q/3843
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabic ◉" tvg-logo="http://myserveriptv.com:2082/images/e7bbf7f58455666b71d1cc73bc9eb147.png" group-title="NEWS",Sky News Arabic ◉
+http://iptvch.com:2082/MI6m7jdHNww/tUSgBGZcpB/323975
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabic HD" tvg-logo="http://myserveriptv.com:2082/images/e7bbf7f58455666b71d1cc73bc9eb147.png" group-title="NEWS",Sky News Arabic HD
+http://iptvch.com:2082/MI6m7jdHNww/tUSgBGZcpB/255156
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabic 4K" tvg-logo="http://myserveriptv.com:2082/images/e7bbf7f58455666b71d1cc73bc9eb147.png" group-title="NEWS",Sky News Arabic 4K
+http://iptvch.com:2082/MI6m7jdHNww/tUSgBGZcpB/315231
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/Abbou_meriem/10112017/718
+#EXTINF:-1 tvg-ID="SkyNwsArabia.nws" tvg-name="Sky News Arabia" tvg-logo="https://lh3.googleusercontent.com/bSw1QqhNdEyk1bXxEEkJGVQ5Zt64-b8tX0qwP8xoyb_d-pqr63yd6Q-pab1jv-d3bpE=w300" group-title="NEWS",Sky News Arabia
+http://solution62000.mine.nu:80/Medelle_khaled/23112017/718
+#EXTINF:-1 tvg-id="rai_news_24_francia_xtream_ai" tvg-name="ᴺᴱᵂˢ | RAI NEWS IT UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Rai_News_-_Logo_2021.svg" group-title="NEWS",ᴺᴱᵂˢ | RAI NEWS IT UHD
+http://00322.xyz:8000/channel/Bronder67/ZAHW9SU1IC/161812.ts
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: SKY NEWS ARABIA" tvg-logo="" group-title="NEWS",NEWS: SKY NEWS ARABIA
+http://ceb.tvcs.me:8691/Ricarjara/qwJs3f6H/2997
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: SKY NEWS ARABIYA" tvg-logo="" group-title="NEWS",NEWS: SKY NEWS ARABIYA
+http://ceb.tvcs.me:8691/Ricarjara/qwJs3f6H/2998
+#EXTINF:-1 tvg-id="skynewsarabialive.ae" tvg-name="Sky News Arabiya FHD" tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/Arabic_News/SkyNewsArabiya.png" group-title="NEWS",Sky News Arabiya FHD
+http://45.139.122.199/live/8XcwMYsvHu/K8XWkSY02D/1508709.m3u8
+#EXTINF:-1 tvg-id="skynewsarabialive.ae" tvg-name="Sky News Arabiya HD" tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/ArabicNews/SkyNewsArabiya.png" group-title="NEWS",Sky News Arabiya HD
+http://45.139.122.199/live/8XcwMYsvHu/K8XWkSY02D/2020250.m3u8
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="NEWS",Sky News
+http://45.139.122.199/live/8XcwMYsvHu/K8XWkSY02D/2105934.m3u8
+#EXTINF:-1 tvg-id="skynewsarabialive.ae" tvg-name="Sky News Arabiya FHD" tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/Arabic_News/SkyNewsArabiya.png" group-title="NEWS",Sky News Arabiya FHD
+http://45.139.122.199/8XcwMYsvHu/K8XWkSY02D/1508709
+#EXTINF:-1 tvg-id="skynewsarabialive.ae" tvg-name="Sky News Arabiya HD" tvg-logo="https://logo.mypanel.one/logos/LogoEVDTV/ArabicNews/SkyNewsArabiya.png" group-title="NEWS",Sky News Arabiya HD
+http://45.139.122.199/8XcwMYsvHu/K8XWkSY02D/2020250
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="Sky News" tvg-logo="https://logo.m3uassets.com/skynews.png" group-title="NEWS",Sky News
+http://45.139.122.199/8XcwMYsvHu/K8XWkSY02D/2105934
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nature HD+" tvg-logo="" group-title="NEWS",DE: Sky Nature HD+
+http://sistem.boss4k.com:2095/Sezercelepci/P4lGR8iBE3/320773
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nature HD" tvg-logo="" group-title="NEWS",DE: Sky Nature HD
+http://sistem.boss4k.com:2095/Sezercelepci/P4lGR8iBE3/320774
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Documentaries HD+" tvg-logo="" group-title="NEWS",DE: Sky Documentaries HD+
+http://sistem.boss4k.com:2095/Sezercelepci/P4lGR8iBE3/320775
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Documentaries HD" tvg-logo="" group-title="NEWS",DE: Sky Documentaries HD
+http://sistem.boss4k.com:2095/Sezercelepci/P4lGR8iBE3/320776
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nature HD+" tvg-logo="" group-title="NEWS",DE: Sky Nature HD+
+http://sistem.boss4k.com:2095/Serkannuran/gBLDTKsMrXoMPV/320773
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nature HD" tvg-logo="" group-title="NEWS",DE: Sky Nature HD
+http://sistem.boss4k.com:2095/Serkannuran/gBLDTKsMrXoMPV/320774
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Documentaries HD+" tvg-logo="" group-title="NEWS",DE: Sky Documentaries HD+
+http://sistem.boss4k.com:2095/Serkannuran/gBLDTKsMrXoMPV/320775
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Documentaries HD" tvg-logo="" group-title="NEWS",DE: Sky Documentaries HD
+http://sistem.boss4k.com:2095/Serkannuran/gBLDTKsMrXoMPV/320776
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nature HD+" tvg-logo="" group-title="NEWS",DE: Sky Nature HD+
+http://sistem.boss4k.com:2095/Celalsaricicek/WYNkVCDm8LZXtC/320773
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Nature HD" tvg-logo="" group-title="NEWS",DE: Sky Nature HD
+http://sistem.boss4k.com:2095/Celalsaricicek/WYNkVCDm8LZXtC/320774
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Documentaries HD+" tvg-logo="" group-title="NEWS",DE: Sky Documentaries HD+
+http://sistem.boss4k.com:2095/Celalsaricicek/WYNkVCDm8LZXtC/320775
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Documentaries HD" tvg-logo="" group-title="NEWS",DE: Sky Documentaries HD
+http://sistem.boss4k.com:2095/Celalsaricicek/WYNkVCDm8LZXtC/320776
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 HEVC" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky TG 24 HEVC
+http://8253b.faststream.link:80/pietroliguo/liguor1/111494
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky TG 24 FHD
+http://8253b.faststream.link:80/pietroliguo/liguor1/111491
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky Tg 24 HD
+http://8253b.faststream.link:80/pietroliguo/liguor1/139
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 Full HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/rainews.png" group-title="NEWS",Rai News 24 Full HD
+http://8253b.faststream.link:80/pietroliguo/liguor1/25323
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="Rai News 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/rainews.png" group-title="NEWS",Rai News 24 HD
+http://8253b.faststream.link:80/pietroliguo/liguor1/175639
+#EXTINF:-1 tvg-id="Euroews Italia" tvg-name="Euronews Italia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/euronews.png" group-title="NEWS",Euronews Italia
+http://8253b.faststream.link:80/pietroliguo/liguor1/175559
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Abruzzo
+http://8253b.faststream.link:80/pietroliguo/liguor1/642121
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Basilicata
+http://8253b.faststream.link:80/pietroliguo/liguor1/642120
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Calabria
+http://8253b.faststream.link:80/pietroliguo/liguor1/642119
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Campania" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Campania
+http://8253b.faststream.link:80/pietroliguo/liguor1/642118
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Emilia-Romagna
+http://8253b.faststream.link:80/pietroliguo/liguor1/642117
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Friuli Venezia Giulia
+http://8253b.faststream.link:80/pietroliguo/liguor1/642116
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Furlanija Julijska Krajina" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Furlanija Julijska Krajina
+http://8253b.faststream.link:80/pietroliguo/liguor1/642115
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Liguria
+http://8253b.faststream.link:80/pietroliguo/liguor1/642114
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lombardia
+http://8253b.faststream.link:80/pietroliguo/liguor1/642113
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Marche" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Marche
+http://8253b.faststream.link:80/pietroliguo/liguor1/642112
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Molise" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Molise
+http://8253b.faststream.link:80/pietroliguo/liguor1/642111
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Piemonte
+http://8253b.faststream.link:80/pietroliguo/liguor1/642110
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Puglia
+http://8253b.faststream.link:80/pietroliguo/liguor1/642109
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sardegna
+http://8253b.faststream.link:80/pietroliguo/liguor1/642108
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sicilia
+http://8253b.faststream.link:80/pietroliguo/liguor1/642107
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lazio
+http://8253b.faststream.link:80/pietroliguo/liguor1/642106
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Toscana
+http://8253b.faststream.link:80/pietroliguo/liguor1/642105
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Bolzano" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Bolzano
+http://8253b.faststream.link:80/pietroliguo/liguor1/642104
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Trento" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Trento
+http://8253b.faststream.link:80/pietroliguo/liguor1/642103
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Südtirol" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Südtirol
+http://8253b.faststream.link:80/pietroliguo/liguor1/642102
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Umbria
+http://8253b.faststream.link:80/pietroliguo/liguor1/642101
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: SKY NEWS ARABIA" tvg-logo="" group-title="NEWS",NEWS: SKY NEWS ARABIA
+http://mitv.netinc.org:8691/Josebajoyeso/hrajMyAq/2997
+#EXTINF:-1 tvg-id="" tvg-name="NEWS: SKY NEWS ARABIYA" tvg-logo="" group-title="NEWS",NEWS: SKY NEWS ARABIYA
+http://mitv.netinc.org:8691/Josebajoyeso/hrajMyAq/2998
+#EXTINF:-1 xui-id="865" tvg-id="" tvg-name="Sky Tg 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE1k-HRs4PV1ZhuuKhl5xGLud6g6LxYBpqLA&s" group-title="NEWS",Sky Tg 24
+http://ky.strapomatic.skin:80/play/5YAvoMkb2dfwgXy7-3QCITvJu3JzT7ArT1qAUL3UFmM/m3u8
+#EXTINF:-1 xui-id="866" tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="NEWS",Rai News 24
+http://ky.strapomatic.skin:80/play/5YAvoMkb2dfwgXy7-3QCIZsP0eRFxlXtKmaJGjhSwWM/m3u8
+#EXTINF:-1 xui-id="119594" tvg-id="" tvg-name="Sky Meteo" tvg-logo="http://mainproxy.ddnsguru.com:80/images/Sky_meteo.png" group-title="NEWS",Sky Meteo
+http://ky.strapomatic.skin:80/play/5YAvoMkb2dfwgXy7-3QCIboa55XfXQYsPWzJmAL1ExM/m3u8
+#EXTINF:-1 xui-id="865" tvg-id="" tvg-name="Sky Tg 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE1k-HRs4PV1ZhuuKhl5xGLud6g6LxYBpqLA&s" group-title="NEWS",Sky Tg 24
+http://ky.strapomatic.skin:80/play/5YAvoMkb2dfwgXy7-3QCITvJu3JzT7ArT1qAUL3UFmM/ts
+#EXTINF:-1 xui-id="866" tvg-id="" tvg-name="Rai News 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdmKjks6cdr5ZaFQpe5-CVIBdf7jnt-YN4Xg&s" group-title="NEWS",Rai News 24
+http://ky.strapomatic.skin:80/play/5YAvoMkb2dfwgXy7-3QCIZsP0eRFxlXtKmaJGjhSwWM/ts
+#EXTINF:-1 xui-id="119594" tvg-id="" tvg-name="Sky Meteo" tvg-logo="http://mainproxy.ddnsguru.com:80/images/Sky_meteo.png" group-title="NEWS",Sky Meteo
+http://ky.strapomatic.skin:80/play/5YAvoMkb2dfwgXy7-3QCIboa55XfXQYsPWzJmAL1ExM/ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky TG24 FHD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_DBF_16A8_FBFF_820000_0_0_0.png" group-title="NEWS",Sky TG24 FHD
+http://9sq8gx.msyaa.com:80/live/amy7_79cp6a/a183k7kp/134153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky TG24 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_DBF_16A8_FBFF_820000_0_0_0.png" group-title="NEWS",Sky TG24 HD
+http://9sq8gx.msyaa.com:80/live/amy7_79cp6a/a183k7kp/250.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_1C73_1C20_13E_820000_0_0_0.png" group-title="NEWS",Rai News 24 HD
+http://9sq8gx.msyaa.com:80/live/amy7_79cp6a/a183k7kp/273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_1FAC_19C8_FBFF_820000_0_0_0.png" group-title="NEWS",Sky News HD
+http://9sq8gx.msyaa.com:80/live/amy7_79cp6a/a183k7kp/239563.m3u8
+#EXTINF:-1 tvg-id="skynews.us" group-title="NEWS" tvg-logo="https://logo.m3uassets.com/skynews.png",Sky News
+http://173.208.222.138:8000/51.ch?u=sandragois22silv&p=1sandragois22
+#EXTINF:-1 tvg-id="skynews.us" group-title="NEWS" tvg-logo="https://logo.m3uassets.com/skynews.png",Sky News
+http://173.208.222.138:8000/51.ch?u=delmirarodrigues4&p=s4ndZTsrb4
+#EXTINF:-1 tvg-id="skynews.us" group-title="NEWS" tvg-logo="https://logo.m3uassets.com/skynews.png",Sky News
+http://173.208.222.138:8000/51.ch?u=tEXpJ6Q4Qd&p=C659PDq4fQ
+#EXTINF:-1 tvg-id="skynews.us" group-title="NEWS" tvg-logo="https://logo.m3uassets.com/skynews.png",Sky News
+http://173.208.222.138:8000/51.ch?u=QQOIPRQNNNPAT&p=1234567
+#EXTINF:-1 tvg-id="skynews.us" group-title="NEWS" tvg-logo="https://logo.m3uassets.com/skynews.png",Sky News
+http://173.208.222.138:8000/51.ch?u=Monica343&p=ozEpz7R78S
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG24" tvg-logo="" group-title="NEWS",SKY TG24
+http://62.182.80.220:80/live/z902/quarto/218.ts
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="RAI NEWS 24" tvg-logo="" group-title="NEWS",RAI NEWS 24
+http://62.182.80.220:80/live/z902/quarto/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG24" tvg-logo="" group-title="NEWS",SKY TG24
+http://62.182.80.220:80/live/SANDERWORLD94/26092021/218.ts
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="RAI NEWS 24" tvg-logo="" group-title="NEWS",RAI NEWS 24
+http://62.182.80.220:80/live/SANDERWORLD94/26092021/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG24" tvg-logo="" group-title="NEWS",SKY TG24
+http://62.182.80.220:80/live/CIOCCOLATA/28092023/218.ts
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="RAI NEWS 24" tvg-logo="" group-title="NEWS",RAI NEWS 24
+http://62.182.80.220:80/live/CIOCCOLATA/28092023/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG24" tvg-logo="" group-title="NEWS",SKY TG24
+http://62.182.80.220:80/live/fabbiana2/juiqZEuoRk/218.ts
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="RAI NEWS 24" tvg-logo="" group-title="NEWS",RAI NEWS 24
+http://62.182.80.220:80/live/fabbiana2/juiqZEuoRk/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG24" tvg-logo="" group-title="NEWS",SKY TG24
+http://62.182.80.220:80/live/maggiocogn123/6VPrv2n2ko/218.ts
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="RAI NEWS 24" tvg-logo="" group-title="NEWS",RAI NEWS 24
+http://62.182.80.220:80/live/maggiocogn123/6VPrv2n2ko/220.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG24" tvg-logo="" group-title="NEWS",SKY TG24
+http://62.182.80.220:80/live/PKCAMERLINGO/26072021/218.ts
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="RAI NEWS 24" tvg-logo="" group-title="NEWS",RAI NEWS 24
+http://62.182.80.220:80/live/PKCAMERLINGO/26072021/220.ts
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 HEVC" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky TG 24 HEVC
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/111494
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky Tg 24 HD
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/139
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="Rai News 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/rainews.png" group-title="NEWS",Rai News 24 HD
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/175639
+#EXTINF:-1 tvg-id="Euroews Italia" tvg-name="Euronews Italia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/euronews.png" group-title="NEWS",Euronews Italia
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/175559
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Abruzzo
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642121
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Basilicata
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642120
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Calabria
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642119
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Campania" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Campania
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642118
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Emilia-Romagna
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642117
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Friuli Venezia Giulia
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642116
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Furlanija Julijska Krajina" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Furlanija Julijska Krajina
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642115
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Liguria
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642114
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lombardia
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642113
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Marche" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Marche
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642112
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Molise" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Molise
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642111
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Piemonte
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642110
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Puglia
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642109
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sardegna
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642108
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sicilia
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642107
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lazio
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642106
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Toscana
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642105
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Bolzano" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Bolzano
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642104
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Trento" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Trento
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642103
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Südtirol" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Südtirol
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642102
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Umbria
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/642101
+#EXTINF:-1 tvg-id="" tvg-name="AR: SKY NEWS ARABIA HD" tvg-logo="" group-title="NEWS",AR: SKY NEWS ARABIA HD
+http://34152.faststream.link:80/Zabibbo/dcmNgcZYQY/683532
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 HEVC" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky TG 24 HEVC
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/111494.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky Tg 24 HD
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/139.m3u8
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="Rai News 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/rainews.png" group-title="NEWS",Rai News 24 HD
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/175639.m3u8
+#EXTINF:-1 tvg-id="Euroews Italia" tvg-name="Euronews Italia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/euronews.png" group-title="NEWS",Euronews Italia
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/175559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Abruzzo
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Basilicata
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Calabria
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Campania" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Campania
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Emilia-Romagna
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Friuli Venezia Giulia
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Furlanija Julijska Krajina" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Furlanija Julijska Krajina
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Liguria
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lombardia
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Marche" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Marche
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Molise" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Molise
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Piemonte
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Puglia
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sardegna
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sicilia
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lazio
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Toscana
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Bolzano" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Bolzano
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Trento" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Trento
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Südtirol" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Südtirol
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Umbria
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/642101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR: SKY NEWS ARABIA HD" tvg-logo="" group-title="NEWS",AR: SKY NEWS ARABIA HD
+http://34152.faststream.link:80/live/Zabibbo/dcmNgcZYQY/683532.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 HEVC" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky TG 24 HEVC
+http://1ae48.zapto.quest:80/live/verga321/mario321/111494.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky Tg 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky Tg 24 HD
+http://1ae48.zapto.quest:80/live/verga321/mario321/139.m3u8
+#EXTINF:-1 tvg-id="Rai News 24 HD" tvg-name="Rai News 24 HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/rainews.png" group-title="NEWS",Rai News 24 HD
+http://1ae48.zapto.quest:80/live/verga321/mario321/175639.m3u8
+#EXTINF:-1 tvg-id="Euroews Italia" tvg-name="Euronews Italia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/euronews.png" group-title="NEWS",Euronews Italia
+http://1ae48.zapto.quest:80/live/verga321/mario321/175559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Abruzzo" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Abruzzo
+http://1ae48.zapto.quest:80/live/verga321/mario321/642121.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Basilicata" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Basilicata
+http://1ae48.zapto.quest:80/live/verga321/mario321/642120.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Calabria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Calabria
+http://1ae48.zapto.quest:80/live/verga321/mario321/642119.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Campania" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Campania
+http://1ae48.zapto.quest:80/live/verga321/mario321/642118.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Emilia-Romagna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Emilia-Romagna
+http://1ae48.zapto.quest:80/live/verga321/mario321/642117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Friuli Venezia Giulia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Friuli Venezia Giulia
+http://1ae48.zapto.quest:80/live/verga321/mario321/642116.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Furlanija Julijska Krajina" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Furlanija Julijska Krajina
+http://1ae48.zapto.quest:80/live/verga321/mario321/642115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Liguria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Liguria
+http://1ae48.zapto.quest:80/live/verga321/mario321/642114.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lombardia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lombardia
+http://1ae48.zapto.quest:80/live/verga321/mario321/642113.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Marche" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Marche
+http://1ae48.zapto.quest:80/live/verga321/mario321/642112.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Molise" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Molise
+http://1ae48.zapto.quest:80/live/verga321/mario321/642111.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Piemonte" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Piemonte
+http://1ae48.zapto.quest:80/live/verga321/mario321/642110.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Puglia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Puglia
+http://1ae48.zapto.quest:80/live/verga321/mario321/642109.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sardegna" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sardegna
+http://1ae48.zapto.quest:80/live/verga321/mario321/642108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Sicilia" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Sicilia
+http://1ae48.zapto.quest:80/live/verga321/mario321/642107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Lazio" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Lazio
+http://1ae48.zapto.quest:80/live/verga321/mario321/642106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Toscana" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Toscana
+http://1ae48.zapto.quest:80/live/verga321/mario321/642105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Bolzano" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Bolzano
+http://1ae48.zapto.quest:80/live/verga321/mario321/642104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Trentino Alto Adige Trento" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Trentino Alto Adige Trento
+http://1ae48.zapto.quest:80/live/verga321/mario321/642103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Südtirol" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Südtirol
+http://1ae48.zapto.quest:80/live/verga321/mario321/642102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3 TGR Umbria" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie/rai3tgr.png" group-title="NEWS",Rai 3 TGR Umbria
+http://1ae48.zapto.quest:80/live/verga321/mario321/642101.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG 24 FHD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/skytg24.png" group-title="NEWS",Sky TG 24 FHD
+http://1ae48.zapto.quest:80/live/verga321/mario321/111491.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 Full HD" tvg-logo="https://miglior.miweb.cc/copertinenuove/notizie2022/rainews.png" group-title="NEWS",Rai News 24 Full HD
+http://1ae48.zapto.quest:80/live/verga321/mario321/25323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cusano Italia Tv" tvg-logo="https://gigipicons.top/images/852f137b7114d647af48138d8bf53c80.png" group-title="NEWS",Cusano Italia Tv
+http://vision19.ddns.net:8080/tanix271224/T3Zv4Z7LHmWZ/422867
+#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="https://gigipicons.top/images/0a203110e3cd2d2b9be4794fed8bc1ac.png" group-title="NEWS",Rai News 24
+http://vision19.ddns.net:8080/tanix271224/T3Zv4Z7LHmWZ/422875
+#EXTINF:-1 tvg-id="" tvg-name="Sky TG24 FHD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_DBF_16A8_FBFF_820000_0_0_0.png" group-title="NEWS",Sky TG24 FHD
+http://kool3.zapto.org:80/live/1ang_GIGINO23/PUZZULILLO/134153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky TG24 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_19_DBF_16A8_FBFF_820000_0_0_0.png" group-title="NEWS",Sky TG24 HD
+http://kool3.zapto.org:80/live/1ang_GIGINO23/PUZZULILLO/250.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_1C73_1C20_13E_820000_0_0_0.png" group-title="NEWS",Rai News 24 HD
+http://kool3.zapto.org:80/live/1ang_GIGINO23/PUZZULILLO/273.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sky News HD" tvg-logo="http://picon.koolmedia.live/images/1_0_1_1FAC_19C8_FBFF_820000_0_0_0.png" group-title="NEWS",Sky News HD
+http://kool3.zapto.org:80/live/1ang_GIGINO23/PUZZULILLO/239563.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/dO0CJiEr6z/FwxseL6Hp3/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/FrancoPasticceria11/AfjZPASaRF/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/38775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/50148.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/38958.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/7X54l8BlZf/1nLs85gB37/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/5848.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/PietroVET2/37uwzRTHnr/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/hPomVTK3rB/5CO5syMpKH/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/mMOdTIKGVB/CWqVnK4Cgh/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/ianna/wYkyYZ5U5j/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/38774.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/BRUTAX09/09Beluga20/38775.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/32.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/5848.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/38774.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/38772.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/38775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://rbonfiglio.camdvr.org:6923/live/6Hx5YSPBBS/GsQFtb7aTN/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://cbc.giize.com:6923/live/cQB71TiXWalter/OF00zySIs8/50148.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/31.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 4K HEVC H265" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",SKY TG 24 4K HEVC H265
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/6650.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SKY TG 24 HD" tvg-logo="http://TqGQW29L3.hallointernet.org:23000/images/025bf2df304cbf1bef47c100e98abbc5.png" group-title="NEWS",SKY TG 24 HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS ITALIA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",EURONEWS ITALIA HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/5848.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Rai%20News%2024.png" group-title="NEWS",RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/245.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 FULL HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 FULL HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/38774.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="[S+] SKY TG24 HD" tvg-logo="http://netflix.oldadventure.org:23000/Loghi/Sky%20TG%2024%20HD.png" group-title="NEWS",[S+] SKY TG24 HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/38775.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="[S+] RAI NEWS 24 HD" tvg-logo="http://netflix.oldadventure.org:23000/images/d2039c68b85e6f2c690e5a21ada0c4fe.png" group-title="NEWS",[S+] RAI NEWS 24 HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/38958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[S+] EURONEWS ITA HD" tvg-logo="http://netflix.oldadventure.org:23000/images/894a32de977df155b3df799a4566dcb6.jpg" group-title="NEWS",[S+] EURONEWS ITA HD
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/38772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="[HU_DIRECT_TV] Sky News" tvg-logo="https://i.imgur.com/mU6s0rO.png" group-title="NEWS",[HU_DIRECT_TV] Sky News
+http://cbc.giize.com:6923/live/lupin305122016/LfDun5ohwW/50148.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/philipliftermum/whKqStsUvp/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/philipliftermum/whKqStsUvp/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/philipliftermum/whKqStsUvp/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/philipliftermum/whKqStsUvp/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/markxerr/bwfXHYChY8zu/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/markxerr/bwfXHYChY8zu/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/markxerr/bwfXHYChY8zu/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/markxerr/bwfXHYChY8zu/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/stluciatonytv2/35699835888/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/stluciatonytv2/35699835888/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/stluciatonytv2/35699835888/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/stluciatonytv2/35699835888/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/Missierandrew/SewLjrRfIk/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/Missierandrew/SewLjrRfIk/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/Missierandrew/SewLjrRfIk/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/Missierandrew/SewLjrRfIk/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/77140568/g13CFHOVTW/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/77140568/g13CFHOVTW/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/77140568/g13CFHOVTW/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/77140568/g13CFHOVTW/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/Bugi_HHJhggf154/Fhg73p8qNGm3/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/Bugi_HHJhggf154/Fhg73p8qNGm3/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/Bugi_HHJhggf154/Fhg73p8qNGm3/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/Bugi_HHJhggf154/Fhg73p8qNGm3/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/gorgh21/pWv8httJRafz/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/gorgh21/pWv8httJRafz/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/gorgh21/pWv8httJRafz/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/gorgh21/pWv8httJRafz/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/79845642/C6FPXs3cKKpR/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/79845642/C6FPXs3cKKpR/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/79845642/C6FPXs3cKKpR/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/79845642/C6FPXs3cKKpR/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/gianluca/p4jTh5fncd/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/gianluca/p4jTh5fncd/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/gianluca/p4jTh5fncd/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/gianluca/p4jTh5fncd/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/Makil/wJmY2tVxSWkx/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/Makil/wJmY2tVxSWkx/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/Makil/wJmY2tVxSWkx/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/Makil/wJmY2tVxSWkx/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/gilbertwurth/tdn7flIBNn/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/gilbertwurth/tdn7flIBNn/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/gilbertwurth/tdn7flIBNn/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/gilbertwurth/tdn7flIBNn/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/joeborg/dV9ZoFoC5V/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/joeborg/dV9ZoFoC5V/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/joeborg/dV9ZoFoC5V/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/joeborg/dV9ZoFoC5V/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/99456363/S57w69ZUqaqb/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/99456363/S57w69ZUqaqb/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/99456363/S57w69ZUqaqb/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/99456363/S57w69ZUqaqb/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/A38UlN4pEcfEi/68cQL4wlCv/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/A38UlN4pEcfEi/68cQL4wlCv/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/A38UlN4pEcfEi/68cQL4wlCv/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/A38UlN4pEcfEi/68cQL4wlCv/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/CatchUPchannelS___123/7UCMamXgvKpT/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/CatchUPchannelS___123/7UCMamXgvKpT/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/CatchUPchannelS___123/7UCMamXgvKpT/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/CatchUPchannelS___123/7UCMamXgvKpT/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/aplpbirE/N7ggsjkrBN/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/aplpbirE/N7ggsjkrBN/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/aplpbirE/N7ggsjkrBN/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/aplpbirE/N7ggsjkrBN/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/99424446e10nd/8Wh8Ib4Q/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/99424446e10nd/8Wh8Ib4Q/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/99424446e10nd/8Wh8Ib4Q/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/99424446e10nd/8Wh8Ib4Q/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/79262108123/AuyLcayvPwdR/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/79262108123/AuyLcayvPwdR/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/79262108123/AuyLcayvPwdR/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/79262108123/AuyLcayvPwdR/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/kazinpnstlucia/usYUmXehwzpE/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/kazinpnstlucia/usYUmXehwzpE/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/kazinpnstlucia/usYUmXehwzpE/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/kazinpnstlucia/usYUmXehwzpE/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/MartheseAttard/NPyqS6l0gV/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/MartheseAttard/NPyqS6l0gV/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/MartheseAttard/NPyqS6l0gV/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/MartheseAttard/NPyqS6l0gV/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/frankgerm/zbgB0Odvpp/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/frankgerm/zbgB0Odvpp/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/frankgerm/zbgB0Odvpp/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/frankgerm/zbgB0Odvpp/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/adrianaudreybro/ZZzfip0TrY/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/adrianaudreybro/ZZzfip0TrY/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/adrianaudreybro/ZZzfip0TrY/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/adrianaudreybro/ZZzfip0TrY/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/99030998100YEAR/zHHUsbcv6gtP/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/99030998100YEAR/zHHUsbcv6gtP/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/99030998100YEAR/zHHUsbcv6gtP/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/99030998100YEAR/zHHUsbcv6gtP/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/cardonastanley/riH16G7FDB/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/cardonastanley/riH16G7FDB/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/cardonastanley/riH16G7FDB/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/cardonastanley/riH16G7FDB/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/99336556/r5ivdxcGaP/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/99336556/r5ivdxcGaP/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/99336556/r5ivdxcGaP/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/99336556/r5ivdxcGaP/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/EtienneAbela/8Cp5Kn1Y/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/EtienneAbela/8Cp5Kn1Y/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/EtienneAbela/8Cp5Kn1Y/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/EtienneAbela/8Cp5Kn1Y/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/99452163e5/JAzW66xumJAe/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/99452163e5/JAzW66xumJAe/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/99452163e5/JAzW66xumJAe/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/99452163e5/JAzW66xumJAe/73880.m3u8
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/TaLv9xA5xL8J/EDxGGL3WYUwD/73878
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/TaLv9xA5xL8J/EDxGGL3WYUwD/73880
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="IT: RAI NEWS 24" tvg-logo="https://static.epg.best/it/RaiNews.it.png" group-title="NEWS",IT: RAI NEWS 24
+http://62.182.83.108:80/live/TaLv9xA5xL8J/EDxGGL3WYUwD/73878.m3u8
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="IT: SKY TG 24 " tvg-logo="https://static.epg.best/it/SkyTG24.it.png" group-title="NEWS",IT: SKY TG 24 
+http://62.182.83.108:80/live/TaLv9xA5xL8J/EDxGGL3WYUwD/73880.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| SKY NEWS ARABIA" tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/SKYNEWSARABIA.png" group-title="NEWS",AR| SKY NEWS ARABIA
+http://ya.pingtx.me:80/bacabcab8f/7dfeed074f64/7866
